@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T13:16:39.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qhI23fQyOoej66uLiaRJ" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T13:19:28.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="L6jxpuxXDDL8PYv7RZv-" version="24.0.7" type="github">
   <diagram name="Page-1" id="OPs3Wg2l2N55ewQV1jiE">
     <mxGraphModel dx="1242" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,10 +54,10 @@
         <mxCell id="JQxtd9LEJsmW4B_Lo5uI-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.backup_restore;" vertex="1" parent="1">
           <mxGeometry x="386" y="380" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="JQxtd9LEJsmW4B_Lo5uI-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Restore&lt;/h1&gt;&lt;div&gt;DB &amp;amp; Buckets&amp;nbsp;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JQxtd9LEJsmW4B_Lo5uI-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Restore&lt;/h1&gt;&lt;div&gt;DB &amp;amp; Buckets - snapshots&amp;nbsp;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="269" y="420" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JQxtd9LEJsmW4B_Lo5uI-21" value="Punisher Configurator" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/line-basic-ecommerce/64/icons_ecommerce_line-17-128.png" vertex="1" parent="1">
+        <mxCell id="JQxtd9LEJsmW4B_Lo5uI-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/line-basic-ecommerce/64/icons_ecommerce_line-17-128.png" vertex="1" parent="1">
           <mxGeometry x="390" y="500" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JQxtd9LEJsmW4B_Lo5uI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQxtd9LEJsmW4B_Lo5uI-24" target="JQxtd9LEJsmW4B_Lo5uI-26">
@@ -98,6 +98,9 @@
         </mxCell>
         <mxCell id="JQxtd9LEJsmW4B_Lo5uI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQxtd9LEJsmW4B_Lo5uI-26" target="JQxtd9LEJsmW4B_Lo5uI-35">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQxtd9LEJsmW4B_Lo5uI-39" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Punisher Configurator&lt;/h1&gt;&lt;p&gt;Define the pace and the probability for Studies and procedures&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="230" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
